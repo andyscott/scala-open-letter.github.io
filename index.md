@@ -29,6 +29,7 @@ Signed (27 April 2021):
 
 * Adelbert Chang
 * Adrienne L. Travis
+* Andy Scott
 * Bodil Stokke
 * Brian Clapper
 * Dean Wampler
@@ -50,7 +51,6 @@ Signed (27 April 2021):
 * Stew O’Connor
 * Travis Brown
 * Zainab Ali
-* Andy Scott
 
 ### Additional information
 
